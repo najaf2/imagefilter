@@ -1,3 +1,5 @@
-## A program that applies filters to a given image.
+## imagefilter
+
+ A program that applies filters to a given image.
 
 work-in-progress
